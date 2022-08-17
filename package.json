@@ -1,0 +1,20 @@
+{
+  "name": "ws_bloggoverno",
+  "version": "1.0.0",
+  "description": "WebScrapping do blog do governo federal.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/budinhaxxt/WS_BlogGoverno.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/budinhaxxt/WS_BlogGoverno/issues"
+  },
+  "homepage": "https://github.com/budinhaxxt/WS_BlogGoverno#readme"
+}
